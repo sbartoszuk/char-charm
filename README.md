@@ -11,7 +11,7 @@ pip install Pillow
 After that, just clone this repo and you're good to go
 
 ```
-git clone https://github.com/sbartoszuk/char-charm
+git clone https://github.com/sbartoszuk/char-charm.git
 ```
 
 # Example usage
