@@ -32,3 +32,8 @@ ascii_art.save_as_image('output.png')
 Output file
 
 ![](https://github.com/sbartoszuk/char-charm/blob/main/media_examples/example_4.png?raw=true)
+
+# AsciiImage object usage
+
+In order to use
+---
