@@ -28,3 +28,7 @@ ascii_art.load_image('example_image.jpg')
 # if you wanna to save as png file
 ascii_art.save_as_image('output.png')
 ```
+
+Output file
+
+![Example use output png](https://raw.githubusercontent.com/sbartoszuk/char-charm/master/media_examples/example_4.png)
