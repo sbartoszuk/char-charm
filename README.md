@@ -4,5 +4,12 @@ Create ASCII art from images, strings, text files, or PIL images and save them a
 # Quick start
 To make it work, you need to isntall Pillow
 
-    pip install Pillow
+```
+pip install Pillow
+```
 
+After that, just clone this repo and you're good to go
+
+```
+git clone https://github.com/profoak/ascii_py
+```
