@@ -31,4 +31,4 @@ ascii_art.save_as_image('output.png')
 
 Output file
 
-![](https://raw.githubusercontent.com/sbartoszuk/char-charm/main/media_examples/example.png)
+![](https://github.com/sbartoszuk/char-charm/blob/main/example.jpg?raw=true)
