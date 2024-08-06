@@ -13,3 +13,18 @@ After that, just clone this repo and you're good to go
 ```
 git clone https://github.com/sbartoszuk/char-charm
 ```
+
+# Example usage
+
+```python
+from char_charm.char_charm import AsciiImage
+
+ascii_art = AsciiImage()
+ascii_art.load_image('example_image.jpg')
+
+# if you wanna to print out to console (windows os only)
+#ascii_art.to_console()
+
+# if you wanna to save as png file
+ascii_art.save_as_image('output.png')
+```
