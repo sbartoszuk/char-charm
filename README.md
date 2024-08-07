@@ -237,7 +237,19 @@ from char_charm import AsciiImage
 ascii_art = AsciiImage()
 ascii_art.load_image('input_image.jpg')
 
-ascii_char_set = ''
+ascii_string_character_set = ''
 
-ascii_char_set = ascii_art.to_string()
+ascii_string_character_set = ascii_art.to_string()
 ```
+
+# Example output results
+
+here are some example output results of ```char-charm```
+
+![](https://github.com/sbartoszuk/char-charm/blob/main/media_examples/example_1.png?raw=true)
+
+![](https://github.com/sbartoszuk/char-charm/blob/main/media_examples/example_2.png?raw=true)
+
+![](https://github.com/sbartoszuk/char-charm/blob/main/media_examples/example_3.png?raw=true)
+
+![](https://github.com/sbartoszuk/char-charm/blob/main/media_examples/example_4.png?raw=true)
