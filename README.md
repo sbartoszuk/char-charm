@@ -145,6 +145,8 @@ ascii_art.to_console()
 ```
 ## Exporting data
 
+there are couple of exporting methods too, just choose what suits you
+
 ### ```save_as_image()```
 
 saves ```ASCII``` character set as image file
