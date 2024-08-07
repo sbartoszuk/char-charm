@@ -33,7 +33,7 @@ Output file
 All the fun is contained in ```AsciiImage``` class. To get your ```ASCII``` art ready, just load data with chosen method for loading data provided below, and show/export ```ASCII``` image with selected method for exporting images (provided below too). In order to use ```char-charm```, you need to create ```AsciiImage``` object first:
 
 ```python
-from char_charm import AsciiImage
+from char_charm.char_charm import AsciiImage
 
 ascii_art = AsciiImage()
 ```
@@ -59,7 +59,7 @@ Parameters:
 Example:
 
 ```python
-from char_charm import AsciiImage
+from char_charm.char_charm import AsciiImage
 
 ascii_art = AsciiImage()
 ascii_art.load_image('some_image.jpg')
@@ -84,7 +84,7 @@ Parameters:
 Example:
 
 ```python
-from char_charm import AsciiImage
+from char_charm.char_charm import AsciiImage
 
 ascii_art = AsciiImage()
 ascii_art.load_pil_image(pillow_image)
@@ -107,7 +107,7 @@ Parameters:
 Example:
 
 ```python
-from char_charm import AsciiImage
+from char_charm.char_charm import AsciiImage
 
 ascii_art = AsciiImage()
 ascii_art.load_from_text_file('ascii_dog.txt')
@@ -131,7 +131,7 @@ Parameters:
 Example:
 
 ```python
-from char_charm import AsciiImage
+from char_charm.char_charm import AsciiImage
 
 ascii_art = AsciiImage()
 ascii_art.load_string(ascii_string)
@@ -158,7 +158,7 @@ Parameters:
 Example:
 
 ```python
-from char_charm import AsciiImage
+from char_charm.char_charm import AsciiImage
 
 ascii_art = AsciiImage()
 ascii_art.load_image('input_image.jpg')
@@ -181,7 +181,7 @@ Parameters:
 Example:
 
 ```python
-from char_charm import AsciiImage
+from char_charm.char_charm import AsciiImage
 
 ascii_art = AsciiImage()
 ascii_art.load_image('input_image.jpg')
@@ -204,7 +204,7 @@ Parameters:
 Example:
 
 ```python
-from char_charm import AsciiImage
+from char_charm.char_charm import AsciiImage
 
 ascii_art = AsciiImage()
 ascii_art.load_image('input_image.jpg')
@@ -227,7 +227,7 @@ Parameters:
 Example:
 
 ```python
-from char_charm import AsciiImage
+from char_charm.char_charm import AsciiImage
 
 ascii_art = AsciiImage()
 ascii_art.load_image('input_image.jpg')
